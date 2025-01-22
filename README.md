@@ -40,9 +40,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ranieryfialho&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-<div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ranieryfialho0&theme=react-dark)](https://github.com/ranieryfialho/github-readme-activity-graph)
-
-</div>
