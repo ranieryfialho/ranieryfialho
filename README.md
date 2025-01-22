@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ranieryfialho/ranieryfialho/output/dist/snake.svg" alt="Snake animation" />
-
-###
