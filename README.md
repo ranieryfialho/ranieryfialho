@@ -1,4 +1,6 @@
-<h2 align="center">Olá 👋! My nome é Raniery.</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Raniery!+" alt="Typing SVG" /></a>
+</div>
 
 ###
 
