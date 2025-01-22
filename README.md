@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Raniery Fialho.</h2>
+<h2 align="left">Hi 👋! My name is Raniery Fialho.</h2>
 
 ###
 
@@ -40,5 +40,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ranieryfialho&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ranieryfialho/ranieryfialho/output/snake.svg" alt="Snake animation" />
 
 ###
