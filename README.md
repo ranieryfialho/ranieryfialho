@@ -43,6 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ranieryfialho/ranieryfialho/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ranieryfialho/ranieryfialho/output/dist/snake.svg" alt="Snake animation" />
 
 ###
