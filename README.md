@@ -36,9 +36,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ranieryfialho">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ranieryfialho&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
