@@ -1,4 +1,6 @@
 ![ranieryfialho's Stats](https://github-readme-stats.vercel.app/api?username=ranieryfialho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![ranieryfialho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranieryfialho&theme=tokyonight&hide_border=true)
+![ranieryfialho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranieryfialho&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
