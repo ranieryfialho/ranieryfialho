@@ -2,10 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DD6387&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Raniery!+" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  ![ranieryfialho's Stats](https://github-readme-stats.vercel.app/api?username=ranieryfialho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  ![ranieryfialho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranieryfialho&theme=tokyonight&hide_border=true)
-</div>
+![ranieryfialho's Stats](https://github-readme-stats.vercel.app/api?username=ranieryfialho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![ranieryfialho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranieryfialho&theme=tokyonight&hide_border=true)
 
 ###
 
