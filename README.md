@@ -14,6 +14,7 @@
 - Frontend projects with **React** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 - Backend APIs using **Node.js** and **Express** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img width="12" />
 - Databases: **PostgreSQL** and **MongoDB**
 - Building end-to-end full stack applications
 - Exploring software architecture and clean code principles
