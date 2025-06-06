@@ -11,7 +11,8 @@
 
 ## 🚀 What I'm working on
 
-- Frontend projects with **React**
+- Frontend projects with **React** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
 - Backend APIs using **Node.js** and **Express**
 - Databases: **PostgreSQL** and **MongoDB**
 - Building end-to-end full stack applications
@@ -28,7 +29,6 @@
 ## 📚 Learning Roadmap
 
 - React + React Hooks
-- TypeScript
 - Git & GitHub workflows
 - RESTful APIs
 - Testing with Jest
