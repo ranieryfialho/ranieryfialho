@@ -12,11 +12,8 @@
 ## 🚀 What I'm working on
 
 - Frontend projects with **React** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
 - Backend APIs using **Node.js** and **Express** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img width="12" />
 - Framework css with **Tailwind** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
-  <img width="12" />
 - Building end-to-end full stack applications
 - Exploring software architecture and clean code principles
 
@@ -31,7 +28,7 @@
 ## 📚 Learning Roadmap
 
 - React + React Hooks - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
-- Git & GitHub workflows
+- Git & GitHub workflows - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30"/>
 - RESTful APIs
 - Testing with Jest
 - Deployment (Vercel, Render)
