@@ -30,7 +30,7 @@
 
 ## 📚 Learning Roadmap
 
-- React + React Hooks
+- React + React Hooks - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
 - Git & GitHub workflows
 - RESTful APIs
 - Testing with Jest
@@ -48,8 +48,8 @@ I’ve always been passionate about building things that solve real problems. My
 
 Feel free to reach out or check out my work!
 
-- GitHub: [github.com/SeuUsuario](https://github.com/ranieryfialho)
-- LinkedIn: [linkedin.com/in/SeuPerfil](https://linkedin.com/in/ranieryfialho)
+- GitHub: [github.com/ranieryfialho](https://github.com/ranieryfialho)
+- LinkedIn: [linkedin.com/in/ranieryfialho](https://linkedin.com/in/ranieryfialho)
 
 ---
 
