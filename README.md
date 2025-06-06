@@ -28,7 +28,7 @@
 ## 📚 Learning Roadmap
 
 - React + React Hooks - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
-- Git & GitHub workflows - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30"/>
+- Git & GitHub workflows - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30"/>
 - RESTful APIs
 - Testing with Jest
 - Deployment (Vercel, Render)
