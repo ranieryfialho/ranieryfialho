@@ -51,9 +51,3 @@ Feel free to reach out or check out my work!
 ---
 
 Thanks for stopping by! 🚀
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranieryfialho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranieryfialho&theme=tokyonight&hide_border=true" />
-</p>
