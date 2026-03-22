@@ -1,8 +1,18 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there,+i'm+Raniery+Fialho!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+## Raniery Fialho
+**Full Stack Developer & Systems Analyst**
 
-🎓 I hold a Bachelor's degree in **Data Science**, and I’m currently making a career transition to become a full-time **Full Stack Developer**.
+Software developer with expertise in building robust web applications and a solid academic background in data and software architecture.
 
-💻 I'm enrolled in a **professional full stack development course** focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, and more).  
-🎯 At the same time, I’m pursuing a **postgraduate degree in Systems Analysis and Development** to deepen my understanding of software architecture and engineering principles.
+### Education
+* **Postgraduate Degree:** Systems Analysis and Development
+* **Bachelor's Degree:** Data Science
+
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+*Focused on writing clean, scalable code and delivering functional solutions.*
